@@ -1,4 +1,4 @@
 Pillow==9.4.0
-pygame==2.2.0
+pygame==2.3.0
 pywin32==305
 win32gui==221.6
